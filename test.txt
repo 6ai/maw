@@ -1,6 +1,8 @@
 ln [source] [target]
 another line
 
+=============
+
 /\/\/\
 \/\/\/
 /\/\/\
